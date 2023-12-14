@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from fake_headers import Headers
 import json
-# from pprint import pprint
+from pprint import pprint
 
 url = 'https://spb.hh.ru/search/vacancy?text=python&area=1&area=2&page='
 
@@ -58,6 +58,6 @@ for i in range(num_last_page):  # идем по каждой странице
                     "company": company
                 }
             )
-        # pprint(articles_data)
+
 with open('vacancy.json', 'w', encoding='utf-8') as f:
-    json.dump(articles_data, f, indent=2)
+    json.dump(articles_data, f, indent=2, ensure_ascii=False)

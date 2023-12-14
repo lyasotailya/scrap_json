@@ -1,436 +1,898 @@
 [
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Middle Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0434\u043b\u044f GPT/LLM \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432",
+    "name_job": "Middle Python-разработчик для GPT/LLM проектов",
     "link": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "\u0434\u043e 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "до 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Middle Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0434\u043b\u044f GPT/LLM \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432",
+    "name_job": "Middle Python-разработчик для GPT/LLM проектов",
     "link": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "\u0434\u043e 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "до 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Middle Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0434\u043b\u044f GPT/LLM \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432",
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Middle Python-разработчик для GPT/LLM проектов",
     "link": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "\u0434\u043e 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "до 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
-    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
   },
   {
-    "name_job": "Middle Python-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0434\u043b\u044f GPT/LLM \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432",
-    "link": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "\u0434\u043e 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
-  },
-  {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
   },
   {
-    "name_job": "Python - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+    "name_job": "Python - разработчик",
     "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
-    "salary": "100\u202f000 \u2013 150\u202f000 \u20bd",
-    "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
-    "company": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0430"
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Middle Python-разработчик для GPT/LLM проектов",
+    "link": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Middle Python-разработчик для GPT/LLM проектов",
+    "link": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Middle Backend-разработчик",
+    "link": "https://adsrv.hh.ru/click?b=739731&c=5&place=36&meta=bcS14BiX-PLckjPkrSypP9vYHc9uTm32By-QmvAgUDwvcV-tL2nnXzcmzV6_TeNfbwL61z7pOPA8O6xfBcPJ2hZdF7fuH_N-sQeYAifxM6c81FXlXAvAnsm3u4HpW8G3_uDSTZ5vW3NOP9nRTBu-dTvR1hQT6Bg_9qDzycbQwygW6OOl698nUH9jlnkIrBJh4JIhhtVGq09zb88rUHD-3d993T1Zi6MPHSEcaONf2WrhGg8o2kMSQUDHvQP4RXY566ys5rRrNMtEkUs0nkqD7p5UgTXP_-MctJ6Omhb45t0F3k-thf8-TZKK9Oyg93rKk1PspovEHCQW55YPXuwG642WOjLn01jUVVqLPDNrICQtm-06ORUFsX6PuGZrvPDXAdMQX6DYx0_SwqBYhWjskJ5-MaB0Z537hVQUwRNEvz4AX0gI2btnpmbXt3ReiQfMEtbef-TYECpNw7BGaZR7Q3uaCCx031pvxyPUj7rwlkcDxoREXm_WMWGGyccaZxuWuSheVBfcEM3FefYJVJUMQg%3D%3D&clickType=link_to_vacancy",
+    "salary": "Зарплата не указана",
+    "city": "Санкт-Петербург",
+    "company": "ООО Софтвэй++"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Middle Python-разработчик для GPT/LLM проектов",
+    "link": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Middle Python-разработчик для GPT/LLM проектов",
+    "link": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "до 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Санкт-Петербург",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "100 000 – 150 000 ₽",
+    "city": "Москва",
+    "company": "Университет искусственного интеллекта"
+  },
+  {
+    "name_job": "Python - разработчик",
+    "link": "https://spb.hh.ru/vacancy/90691821?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "salary": "Зарплата не указана",
+    "city": "Москва, Коломенская",
+    "company": "ООО СКАИД"
   }
 ]
